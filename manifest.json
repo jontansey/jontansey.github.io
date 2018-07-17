@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Cloud Fare",
+  "name": "View your Journeys and payments",
   "icons": [
     {
       "src": "favicon.ico",
