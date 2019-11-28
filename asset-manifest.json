@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/LoanToDo/static/js/main.20df8b85.chunk.js",
-    "main.js.map": "/LoanToDo/static/js/main.20df8b85.chunk.js.map",
-    "runtime-main.js": "/LoanToDo/static/js/runtime-main.8be51873.js",
-    "runtime-main.js.map": "/LoanToDo/static/js/runtime-main.8be51873.js.map",
-    "static/js/2.1e324f18.chunk.js": "/LoanToDo/static/js/2.1e324f18.chunk.js",
-    "static/js/2.1e324f18.chunk.js.map": "/LoanToDo/static/js/2.1e324f18.chunk.js.map",
-    "index.html": "/LoanToDo/index.html",
-    "precache-manifest.910acbc15edadc3bcc96863029458ae6.js": "/LoanToDo/precache-manifest.910acbc15edadc3bcc96863029458ae6.js",
-    "service-worker.js": "/LoanToDo/service-worker.js"
+    "main.js": "/static/js/main.bff4d59a.chunk.js",
+    "main.js.map": "/static/js/main.bff4d59a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.48dbb7d3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.48dbb7d3.js.map",
+    "static/js/2.31547659.chunk.js": "/static/js/2.31547659.chunk.js",
+    "static/js/2.31547659.chunk.js.map": "/static/js/2.31547659.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.555a85e3f5ae6fc118da24ff391489b5.js": "/precache-manifest.555a85e3f5ae6fc118da24ff391489b5.js",
+    "service-worker.js": "/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.8be51873.js",
-    "static/js/2.1e324f18.chunk.js",
-    "static/js/main.20df8b85.chunk.js"
+    "static/js/runtime-main.48dbb7d3.js",
+    "static/js/2.31547659.chunk.js",
+    "static/js/main.bff4d59a.chunk.js"
   ]
 }
