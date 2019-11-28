@@ -1,8 +1,18 @@
 {
-  "main.css": "static/css/main.bc3a6bbd.css",
-  "main.css.map": "static/css/main.bc3a6bbd.css.map",
-  "main.js": "static/js/main.3dd02bf1.js",
-  "main.js.map": "static/js/main.3dd02bf1.js.map",
-  "static\\media\\background.png": "static/media/background.99c7d17b.png",
-  "static\\media\\backgroundLoggedIn.png": "static/media/backgroundLoggedIn.8774a904.png"
+  "files": {
+    "main.js": "/LoanToDo/static/js/main.e66217f0.chunk.js",
+    "main.js.map": "/LoanToDo/static/js/main.e66217f0.chunk.js.map",
+    "runtime-main.js": "/LoanToDo/static/js/runtime-main.8be51873.js",
+    "runtime-main.js.map": "/LoanToDo/static/js/runtime-main.8be51873.js.map",
+    "static/js/2.1e324f18.chunk.js": "/LoanToDo/static/js/2.1e324f18.chunk.js",
+    "static/js/2.1e324f18.chunk.js.map": "/LoanToDo/static/js/2.1e324f18.chunk.js.map",
+    "index.html": "/LoanToDo/index.html",
+    "precache-manifest.2e968b0b35b25fadd243daff0870275f.js": "/LoanToDo/precache-manifest.2e968b0b35b25fadd243daff0870275f.js",
+    "service-worker.js": "/LoanToDo/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8be51873.js",
+    "static/js/2.1e324f18.chunk.js",
+    "static/js/main.e66217f0.chunk.js"
+  ]
 }
